@@ -2,7 +2,7 @@
   {
     "id": 1,
     "dramaId": 101,
-    "title": "Inception",
+    "title": "Kuzi",
     "episode": 1,
     "telegramVideoLink": "https://t.me/et_player/2",
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXDUOi7YywcT2pw43e8rcLusnSe1KtTcpq8g&s",
@@ -17,7 +17,7 @@
   {
     "id": 2,
     "dramaId": 101,
-    "title": "Inception",
+    "title": "Kuzi",
     "episode": 2,
     "telegramVideoLink": "https://t.me/your_channel/102",
     "poster": "https://example.com/posters/hidden_truth.jpg",
@@ -32,7 +32,7 @@
   {
     "id": 3,
     "dramaId": 101,
-    "title": "Inception",
+    "title": "Kuzi",
     "episode": 3,
     "telegramVideoLink": "https://t.me/your_channel/103",
     "poster": "https://example.com/posters/hidden_truth.jpg",
@@ -47,7 +47,7 @@
   {
     "id": 4,
     "dramaId": 101,
-    "title": "Inception",
+    "title": "Kuzi",
     "episode": 4,
     "telegramVideoLink": "https://t.me/your_channel/104",
     "poster": "https://example.com/posters/hidden_truth.jpg",
@@ -62,7 +62,7 @@
   {
     "id": 5,
     "dramaId": 101,
-    "title": "Inception",
+    "title": "Kuzi",
     "episode": 5,
     "telegramVideoLink": "https://t.me/your_channel/105",
     "poster": "https://example.com/posters/hidden_truth.jpg",
