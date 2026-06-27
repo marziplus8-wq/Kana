@@ -10,7 +10,7 @@
     "parts": 16,
     "tag": "Trending",
     "description": "A young journalist uncovers a dangerous conspiracy.",
-    "videolink": "https://example.com/videos/hidden-truth.mp4"
+    "videolink": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
   },
   {
     "id": 2,
