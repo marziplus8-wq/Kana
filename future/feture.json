@@ -9,7 +9,8 @@
     "releaseYear": 2024,
     "parts": 16,
     "tag": "Trending",
-    "description": "A young journalist uncovers a dangerous conspiracy."
+    "description": "A young journalist uncovers a dangerous conspiracy.",
+    "videolink": "https://example.com/videos/hidden-truth.mp4"
   },
   {
     "id": 2,
@@ -21,7 +22,8 @@
     "releaseYear": 2023,
     "parts": 24,
     "tag": "New",
-    "description": "A romance that transcends time and fate."
+    "description": "A romance that transcends time and fate.", 
+    "videolink": "https://example.com/videos/love-beyond-time.mp4"
   },
   {
     "id": 3,
@@ -33,7 +35,8 @@
     "releaseYear": 2025,
     "parts": 10,
     "tag": "Editor's Pick",
-    "description": "Humanity's last hope lies beyond the horizon."
+    "description": "Humanity's last hope lies beyond the horizon.",
+    "videolink": "https://example.com/videos/dark-horizon.mp4"
   },
   {
     "id": 4,
@@ -45,7 +48,8 @@
     "releaseYear": 2024,
     "parts": 12,
     "tag": "Popular",
-    "description": "A lawyer risks everything to expose the truth."
+    "description": "A lawyer risks everything to expose the truth.",
+    "videolink": "https://example.com/videos/the-silent-witness.mp4"
   },
   {
     "id": 5,
@@ -57,6 +61,7 @@
     "releaseYear": 2025,
     "parts": 20,
     "tag": "Top Rated",
-    "description": "A kingdom rises through war, sacrifice, and courage."
+    "description": "A kingdom rises through war, sacrifice, and courage.",
+    "videolink": "https://example.com/videos/kingdom-of-fire.mp4"
   }
 ]
