@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Hidden Truth",
+    "poster": "https://example.com/posters/hidden-truth.jpg",
+    "banner": "https://example.com/banners/hidden-truth.jpg",
+    "genre": "Mystery",
+    "rating": 8.9,
+    "releaseYear": 2024,
+    "parts": 16,
+    "tag": "Trending",
+    "description": "A young journalist uncovers a dangerous conspiracy."
+  },
+  {
+    "id": 2,
+    "title": "Love Beyond Time",
+    "poster": "https://example.com/posters/love-beyond-time.jpg",
+    "banner": "https://example.com/banners/love-beyond-time.jpg",
+    "genre": "Romance",
+    "rating": 8.5,
+    "releaseYear": 2023,
+    "parts": 24,
+    "tag": "New",
+    "description": "A romance that transcends time and fate."
+  },
+  {
+    "id": 3,
+    "title": "Dark Horizon",
+    "poster": "https://example.com/posters/dark-horizon.jpg",
+    "banner": "https://example.com/banners/dark-horizon.jpg",
+    "genre": "Sci-Fi",
+    "rating": 9.1,
+    "releaseYear": 2025,
+    "parts": 10,
+    "tag": "Editor's Pick",
+    "description": "Humanity's last hope lies beyond the horizon."
+  },
+  {
+    "id": 4,
+    "title": "The Silent Witness",
+    "poster": "https://example.com/posters/the-silent-witness.jpg",
+    "banner": "https://example.com/banners/the-silent-witness.jpg",
+    "genre": "Crime",
+    "rating": 8.8,
+    "releaseYear": 2024,
+    "parts": 12,
+    "tag": "Popular",
+    "description": "A lawyer risks everything to expose the truth."
+  },
+  {
+    "id": 5,
+    "title": "Kingdom of Fire",
+    "poster": "https://example.com/posters/kingdom-of-fire.jpg",
+    "banner": "https://example.com/banners/kingdom-of-fire.jpg",
+    "genre": "Historical",
+    "rating": 9.2,
+    "releaseYear": 2025,
+    "parts": 20,
+    "tag": "Top Rated",
+    "description": "A kingdom rises through war, sacrifice, and courage."
+  }
+]
