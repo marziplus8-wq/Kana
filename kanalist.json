@@ -117,5 +117,22 @@
     "parts": 81,
     "views": 1254300,
     "featured": true
+  },
+  {
+    "id": 8,
+    "title": "Tila",
+    "amharic_title": "ጥላ",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/tila.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/tila.jpg",
+    "description": "በትምህርት ቤት የተከሰተን የግፍ ታሪክን የሚያሳይ፣ ከፍተኛ ስሜት የሚንጸባረቅበት የደቡብ ኮሪያ ድራማ ነው።",
+    "genre": "Crime",
+    "country": "Turkey",
+    "language": "Turkish",
+    "video_link": "https://pub-6d94be894a8b4e14a6472bfe42a2257e.r2.dev/tila",
+    "releaseYear": 2023,
+    "rating": 9.9,
+    "parts": 75,
+    "views": 983500,
+    "featured": false
   }
 ]
