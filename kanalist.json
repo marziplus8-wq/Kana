@@ -134,5 +134,22 @@
     "parts": 75,
     "views": 983500,
     "featured": false
+  },
+  {
+    "id": 9,
+    "title": "Word Of The Married",
+    "amharic_title": "የተጋቢዎች ቃል",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/twftm.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/twftm.jpg",
+    "description": "በትዳር መፍረስ፣ ክህደት እና እልህ አስጨራሽ በቀል ዙሪያ የሚያጠነጥን፣ ከፍተኛ ተወዳጅነት ያተረፈ የኮሪያ ድራማ ነው።",
+    "genre": "Drama",
+    "country": "South Korea",
+    "language": "Korean",
+    "video_link": "https://pub-6d94be894a8b4e14a6472bfe42a2257e.r2.dev/twftm",
+    "releaseYear": 2023,
+    "rating": 9.9,
+    "parts": 16,
+    "views": 983500,
+    "featured": false
   }
 ]
