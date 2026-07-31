@@ -253,5 +253,39 @@
     "parts": 94,
     "views": 983500,
     "featured": false
+  },
+  {
+    "id": 16,
+    "title": "Fiker Ke Bekel",
+    "amharic_title": "ፍቅር ከበቀል",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/fikerkebekel.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/fikerkebekel.jpg",
+    "description": "የአባቱን ሞት ለመበቀል ወደ አንድ ቱንሳ ማህበረሰብ ይመለሳል የጠላቱ ልጅ ከሆነችው ከሰህር ጋር በፍቅር ይወድቃል።",
+    "genre": "Romance",
+    "country": "Turkey",
+    "language": "Turkish",
+    "video_link": "https://pub-6d94be894a8b4e14a6472bfe42a2257e.r2.dev/fikerkebekel",
+    "releaseYear": 2025,
+    "rating": 9.9,
+    "parts": 101,
+    "views": 432000,
+    "featured": false
+  },
+  {
+    "id": 17,
+    "title": "Mister",
+    "amharic_title": "ሚስጥር",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/mister.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/mister.jpg",
+    "description": "እጅግ ተወዳጅ የቱርክ  ድራማ ተከታታይ ፊልም ሲሆን፣ በልጅነታቸው የተለያዩና ሕግን በተቃራኒ አቅጣጫ የተከተሉ ሁለት ወንድማማቾች ታሪክ ነው።",
+    "genre": "Drama",
+    "country": "Turkey",
+    "language": "Turkish",
+    "video_link": "https://pub-6d94be894a8b4e14a6472bfe42a2257e.r2.dev/mister",
+    "releaseYear": 2025,
+    "rating": 9.6,
+    "parts": 114,
+    "views": 432000,
+    "featured": false
   }
 ]
