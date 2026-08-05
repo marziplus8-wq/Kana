@@ -1,6 +1,6 @@
 [
   {
-    "id": 0,
+    "id": 1,
     "title": "Ariza",
     "amharic_title": "አሪዛ",
     "poster": "https://marziplus8-wq.github.io/Kana/photo/ariza.jpg",
@@ -18,7 +18,7 @@
   }
   ,
   {
-    "id": 1,
+    "id": 2,
     "title": "Fiker Ke Bekel",
     "amharic_title": "ፍቅር ከበቀል",
     "poster": "https://marziplus8-wq.github.io/Kana/photo/fikerkebekel.jpg",
@@ -35,7 +35,7 @@
     "featured": false
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Mister",
     "amharic_title": "ሚስጥር",
     "poster": "https://marziplus8-wq.github.io/Kana/photo/mister.jpg",
@@ -52,7 +52,7 @@
     "featured": false
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Ehel Wuha",
     "amharic_title": "እህል ውሃ",
     "poster": "https://marziplus8-wq.github.io/Kana/photo/ehelwuha.jpg",
@@ -69,7 +69,7 @@
     "featured": false
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Snbt",
     "amharic_title": "ስንብት",
     "poster": "https://marziplus8-wq.github.io/Kana/photo/snbt.jpg",
@@ -86,7 +86,7 @@
     "featured": true
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "Kuzey Güney",
     "amharic_title": "ኩዚ ጉኒ",
     "poster": "https://marziplus8-wq.github.io/Kana/photo/kuziguni.jpg",
@@ -103,7 +103,7 @@
     "featured": false
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Yegna Sefer",
     "amharic_title": "የኛ ሰፈር",
     "poster": "https://marziplus8-wq.github.io/Kana/photo/yegnasefer.jpg",
@@ -120,7 +120,7 @@
     "featured": false
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Spring Fever",
     "amharic_title": "የጸደይ በሽታ",
     "poster": "https://marziplus8-wq.github.io/Kana/photo/springfever.jpg",
@@ -137,7 +137,7 @@
     "featured": true  
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "Tafach Bekel",
     "amharic_title": "ጣፋጭ በቀል",
     "poster": "https://marziplus8-wq.github.io/Kana/photo/tafachbekel.jpg",
@@ -154,7 +154,7 @@
     "featured": true
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "Tila",
     "amharic_title": "ጥላ",
     "poster": "https://marziplus8-wq.github.io/Kana/photo/tila.jpg",
@@ -171,7 +171,7 @@
     "featured": false
   },
   {
-    "id": 10,
+    "id": 11,
     "title": "Word Of The Married",
     "amharic_title": "የተጋቢዎች ቃል",
     "poster": "https://marziplus8-wq.github.io/Kana/photo/twftm.jpg",
@@ -188,7 +188,7 @@
     "featured": false
   },
   {
-    "id": 11,
+    "id": 12,
     "title": "Zara Ena Chandra",
     "amharic_title": "ዛራ እና ቻንድራ",
     "poster": "https://marziplus8-wq.github.io/Kana/photo/zarachandra.jpg",
@@ -205,7 +205,7 @@
     "featured": false
   },
   {
-    "id": 12,
+    "id": 13,
     "title": "Tadagnu",
     "amharic_title": "ታዳኙ",
     "poster": "https://marziplus8-wq.github.io/Kana/photo/tadagnu.jpg",
@@ -222,7 +222,7 @@
     "featured": false
   },
   {
-    "id": 13,
+    "id": 14,
     "title": "Teach You A Lesson",
     "amharic_title": "ትምህርት እሰጣለሁ",
     "poster": "https://marziplus8-wq.github.io/Kana/photo/tyal.jpg",
@@ -239,7 +239,7 @@
     "featured": false
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "LeLeje",
     "amharic_title": "ለልጄ",
     "poster": "https://marziplus8-wq.github.io/Kana/photo/leleje.jpg",
@@ -256,7 +256,7 @@
     "featured": false
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "Yetefa sm",
     "amharic_title": "የጠፋ ስም",
     "poster": "https://marziplus8-wq.github.io/Kana/photo/yetefasm.jpg",
@@ -273,7 +273,7 @@
     "featured": false
   },
   {
-    "id": 16,
+    "id": 17,
     "title": "Wusane",
     "amharic_title": "ውሳኔ",
     "poster": "https://marziplus8-wq.github.io/Kana/photo/wusane.jpg",
@@ -290,7 +290,7 @@
     "featured": false
   },
   {
-    "id": 17,
+    "id": 18,
     "title": "Tikur Fiker",
     "amharic_title": "ጥቁር ፍቅር",
     "poster": "https://marziplus8-wq.github.io/Kana/photo/tikurfiker.jpg",
@@ -307,7 +307,7 @@
     "featured": true
   },
   {
-    "id": 18,
+    "id": 19,
     "title": "Twenty-Five Twenty-One",
     "amharic_title": "የፍቅር ዘመን 24-21",
     "poster": "https://marziplus8-wq.github.io/Kana/photo/tfto.jpg",
@@ -324,7 +324,7 @@
     "featured": false
   },
   {
-    "id": 19,
+    "id": 20,
     "title": "Ete Emeyte",
     "amharic_title": "እቴ እሜቴ",
     "poster": "https://marziplus8-wq.github.io/Kana/photo/eteemeyte.jpg",
@@ -341,7 +341,7 @@
     "featured": false
   },
   {
-    "id": 20,
+    "id": 21,
     "title": "Menta Getse",
     "amharic_title": "መንታ ገጽ",
     "poster": "https://marziplus8-wq.github.io/Kana/photo/mentagets.jpg",
@@ -358,7 +358,7 @@
     "featured": false
   },
   {
-    "id": 21,
+    "id": 22,
     "title": "Merkognoch",
     "amharic_title": "ምርኮኞች",
     "poster": "https://marziplus8-wq.github.io/Kana/photo/mrkognoch.jpg",
