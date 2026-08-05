@@ -1,6 +1,6 @@
 {
-  "latestVersion": 7,
-  "minimumVersion": 10,
+  "latestVersion": 8,
+  "minimumVersion": 6,
   "updateMessage": "A new version of Kana Movies is available with bug fixes and new features.",
   "playStoreUrl": "https://t.me/kana_movies_app"
 }
