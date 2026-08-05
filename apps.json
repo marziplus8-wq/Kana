@@ -1,29 +1,9 @@
 [
-  {
-    "id": 1,
-    "name": "ET Player",
-    "shortDescription": "ET Player is a powerful and easy-to-use video player that lets you play videos from both online links and local files",
-    "description": "ET Player is a powerful and easy-to-use video player that lets you play videos from both online links and local files. With support for a wide range of video formats, ET Player provides a seamless viewing experience. Whether you're streaming your favorite movies or watching videos stored on your device, ET Player offers smooth playback, customizable controls, and an intuitive interface. Enjoy high-quality video playback with features like subtitle support, playlist management, and more, all in one convenient app.",
-    "downloads": 42000000,
-    "icon": "https://play-lh.googleusercontent.com/V2EKFaQq3AjB0cDc5EdAav8KcXJGhHSNEL62XusUWILW5OFPUY426yd9D5Zw20DDxW1YYj_LRq9P-ck3gmuXRA=w480-h960-rw",
-    "images": [
-      "https://images.unsplash.com/photo-1555774698-0b77e0d5fac6?w=400&h=700&fit=crop",
-      "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&h=700&fit=crop",
-      "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=400&h=700&fit=crop"
-    ],
-    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.etplayer.app",
-    "category": "Finance",
-    "developer": "ET Player Inc.",
-    "updatedAt": "2026-06-15",
-    "rating": 4.6,
-    "size": "28 MB",
-    "timer": 40
-  },
-  {
+   {
     "id": 2,
     "name": "Ethio Fuel Finder",
     "shortDescription": "Ethio Fuel Finder – Find Nearby Fuel Stations Across Ethiopia",
-    "description": "Ethio Fuel Finder is a must-have app for Ethiopian drivers, providing real-time information on fuel station locations, fuel types available, current prices, and user reviews. Whether you're in Addis Ababa or traveling across the country, Ethio Fuel Finder helps you find the nearest fuel stations with ease, ensuring you never run out of fuel on your journey.",
+    "description": "የነዳጅ ማደያዎችን እና የነዳጅ መኖር/አለመኖር የሚያሳይ አፕ!",
     "downloads": 15000000,
     "icon": "https://play-lh.googleusercontent.com/H-UqrvhkWejqUiMwAv2KUWwT4WareaqOTe5eL-RYYGKHFyruWnZa1K59uYAsqFpIu41-fKu_HcLXm-FlUDggkw=w480-h960-rw",
     "images": [
@@ -32,11 +12,68 @@
       "https://images.unsplash.com/photo-1526304760382-3591d3840148?w=400&h=700&fit=crop"
     ],
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ethiofuelfinder.app",
-    "category": "Finance",
-    "developer": "Ethio Fuel Finder Inc.",
+    "category": "Transportation",
+    "developer": "Tuaf Tech",
     "updatedAt": "2026-06-18",
-    "rating": 4.5,
-    "size": "34 MB",
+    "rating": 4.9,
+    "size": "15 MB",
+    "timer": 1
+  },
+  {
+    "id": 6,
+    "name": "Ethio Verify",
+    "shortDescription": "Ethio Verify is the ultimate security companion for Ethiopian business owners, merchants, and freelancers. Protect your business from payment fraud.",
+    "description": "የቴሌብር እና የባንክ ክፍያዎችን በቅጽበት ማረጋገጫ አፕ!",
+    "downloads": 420000,
+    "icon": "https://play-lh.googleusercontent.com/sgv1auX-WUtI6IbeYHBL3-1VK9h54SfhMfhXC4x5FHcXp75jHefAkqKV8LMCNNkN0iKHm65aj4OrVGLD0dWLvQ=w480-h960-rw",
+    "images": [
+      "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=400&h=700&fit=crop",
+      "https://images.unsplash.com/photo-1550547660-d9450f859349?w=400&h=700&fit=crop"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ethioverify.app",
+    "category": "Security",
+    "developer": "Tuaf Tech",
+    "updatedAt": "2026-06-05",
+    "rating": 5.0,
+    "size": "19 MB",
+    "timer": 40
+  },
+  {
+    "id": 1,
+    "name": "ET Player",
+    "shortDescription": "ET Player is a powerful and easy-to-use video player that lets you play videos from both online links and local files",
+    "description": "ሁሉንም የቪዲዮ አይነቶች የሚደግፍ ፈጣን እና ቀላል የቪዲዮ ማጫወቻ",
+    "icon": "https://play-lh.googleusercontent.com/V2EKFaQq3AjB0cDc5EdAav8KcXJGhHSNEL62XusUWILW5OFPUY426yd9D5Zw20DDxW1YYj_LRq9P-ck3gmuXRA=w480-h960-rw",
+    "images": [
+      "https://images.unsplash.com/photo-1555774698-0b77e0d5fac6?w=400&h=700&fit=crop",
+      "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&h=700&fit=crop",
+      "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=400&h=700&fit=crop"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.etplayer.app",
+    "category": "Entertainment",
+    "developer": "Tuaf Tech",
+    "updatedAt": "2026-06-15",
+    "rating": 4.8,
+    "size": "28 MB",
+    "timer": 40
+  },
+  {
+    "id": 8,
+    "name": "Ethio Driving Exam",
+    "shortDescription": "Prepare for your driving test with our comprehensive app.",
+    "description": "የመንጃ ፈቃድ ፈተናን ለመዝጋት የተሟላ አፕ!",
+    "downloads": 150000,
+    "icon": "https://play-lh.googleusercontent.com/katloAqQfRGdeANTab_koFMKm4KIcWvsXUnyEzOYIXWmhmP09dIpsgcBUv0RYrFscaGyp2ow-DgG7IGZVy01PA=w480-h960-rw",
+    "images": [
+      "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=700&fit=crop",
+      "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?w=400&h=700&fit=crop"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ethiodrivingexam.app",
+    "category": "Education",
+    "developer": "Tuaf Tech",
+    "updatedAt": "2026-06-19",
+    "rating": 5.0,
+    "size": "12 MB",
     "timer": 1
   },
   {
@@ -98,25 +135,6 @@
     "timer": 40
   },
   {
-    "id": 6,
-    "name": "Ethio Verify",
-    "shortDescription": "Ethio Verify is the ultimate security companion for Ethiopian business owners, merchants, and freelancers. Protect your business from payment fraud.",
-    "description": "Ethio Verify is the ultimate security companion for Ethiopian business owners, merchants, and freelancers. Protect your business from payment fraud with our comprehensive verification app. Ethio Verify allows you to quickly and easily verify the authenticity of payment transactions, ensuring that you only accept legitimate payments. With features like real-time transaction monitoring, secure QR code scanning, and a user-friendly interface, Ethio Verify is the essential tool for safeguarding your business against fraudulent activities in Ethiopia's dynamic market.",
-    "downloads": 420000,
-    "icon": "https://play-lh.googleusercontent.com/sgv1auX-WUtI6IbeYHBL3-1VK9h54SfhMfhXC4x5FHcXp75jHefAkqKV8LMCNNkN0iKHm65aj4OrVGLD0dWLvQ=w480-h960-rw",
-    "images": [
-      "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=400&h=700&fit=crop",
-      "https://images.unsplash.com/photo-1550547660-d9450f859349?w=400&h=700&fit=crop"
-    ],
-    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ethioverify.app",
-    "category": "Security",
-    "developer": "Ethio Verify Inc.",
-    "updatedAt": "2026-06-05",
-    "rating": 4.3,
-    "size": "19 MB",
-    "timer": 40
-  },
-  {
     "id": 7,
     "name": "Ethio Exchange Rates",
     "shortDescription": "Your ultimate tool for real-time currency conversion and daily exchange rates",
@@ -135,25 +153,7 @@
     "size": "42 MB",
     "timer": 1
   },
-  {
-    "id": 8,
-    "name": "Ethio Driving Exam",
-    "shortDescription": "Prepare for your driving test with our comprehensive app.",
-    "description": "Ethio Driving Exam is the ultimate preparation tool for aspiring drivers in Ethiopia. Get access to the latest driving test questions, detailed explanations, and practice tests to ensure you're fully prepared for your exam.",
-    "downloads": 150000,
-    "icon": "https://play-lh.googleusercontent.com/katloAqQfRGdeANTab_koFMKm4KIcWvsXUnyEzOYIXWmhmP09dIpsgcBUv0RYrFscaGyp2ow-DgG7IGZVy01PA=w480-h960-rw",
-    "images": [
-      "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&h=700&fit=crop",
-      "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?w=400&h=700&fit=crop"
-    ],
-    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ethiodrivingexam.app",
-    "category": "Communication",
-    "developer": "Tikvah Media Group",
-    "updatedAt": "2026-06-19",
-    "rating": 4.8,
-    "size": "12 MB",
-    "timer": 1
-  },
+ 
   {
     "id": 9,
     "name": "Medhanit Health",
