@@ -1,8 +1,8 @@
 [
    {
-    "id": 2,
+    "id": 1,
     "name": "Ethio Fuel Finder",
-    "shortDescription": "Ethio Fuel Finder – Find Nearby Fuel Stations Across Ethiopia",
+    "shortDescription": "የነዳጅ ማደያዎችን እና የነዳጅ መኖር/አለመኖር የሚያሳይ አፕ!",
     "description": "የነዳጅ ማደያዎችን እና የነዳጅ መኖር/አለመኖር የሚያሳይ አፕ!",
     "downloads": 15000000,
     "icon": "https://play-lh.googleusercontent.com/H-UqrvhkWejqUiMwAv2KUWwT4WareaqOTe5eL-RYYGKHFyruWnZa1K59uYAsqFpIu41-fKu_HcLXm-FlUDggkw=w480-h960-rw",
@@ -20,9 +20,9 @@
     "timer": 1
   },
   {
-    "id": 6,
+    "id": 2,
     "name": "Ethio Verify",
-    "shortDescription": "Ethio Verify is the ultimate security companion for Ethiopian business owners, merchants, and freelancers. Protect your business from payment fraud.",
+    "shortDescription": "የቴሌብር እና የባንክ ክፍያዎችን በቅጽበት ማረጋገጫ አፕ!",
     "description": "የቴሌብር እና የባንክ ክፍያዎችን በቅጽበት ማረጋገጫ አፕ!",
     "downloads": 420000,
     "icon": "https://play-lh.googleusercontent.com/sgv1auX-WUtI6IbeYHBL3-1VK9h54SfhMfhXC4x5FHcXp75jHefAkqKV8LMCNNkN0iKHm65aj4OrVGLD0dWLvQ=w480-h960-rw",
@@ -39,9 +39,28 @@
     "timer": 40
   },
   {
-    "id": 1,
+    "id": 3,
+    "name": "Ethio Exchange Rates",
+    "shortDescription": "የባንክ እና የጥቁር ገበያ የውጭ ምንዛሬ ተመኖችን በቅጽበት የሚያሳይ አፕ!",
+    "description": "የባንክ እና የጥቁር ገበያ የውጭ ምንዛሬ ተመኖችን በቅጽበት የሚያሳይ አፕ!",
+    "downloads": 120000,
+    "icon": "https://play-lh.googleusercontent.com/UaEZF3wbGtsoaM9sN4Ii6F53RHb0kTOapOZFkeTnJw42BfmBpZT4m16cE1fodN3CIs-mBWVTxQZIHAzu3hXCS-c=w480-h960-rw",
+    "images": [
+      "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=400&h=700&fit=crop",
+      "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400&h=700&fit=crop"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ethiominzare.daily",
+    "category": "Finance",
+    "developer": "Ethio Exchange Rates Inc.",
+    "updatedAt": "2026-04-12",
+    "rating": 4.8,
+    "size": "15 MB",
+    "timer": 1
+  },
+  {
+    "id": 4,
     "name": "ET Player",
-    "shortDescription": "ET Player is a powerful and easy-to-use video player that lets you play videos from both online links and local files",
+    "shortDescription": "የቴሌብር እና የባንክ ክፍያዎችን በቅጽበት ማረጋገጫ አፕ!",
     "description": "ሁሉንም የቪዲዮ አይነቶች የሚደግፍ ፈጣን እና ቀላል የቪዲዮ ማጫወቻ",
     "icon": "https://play-lh.googleusercontent.com/V2EKFaQq3AjB0cDc5EdAav8KcXJGhHSNEL62XusUWILW5OFPUY426yd9D5Zw20DDxW1YYj_LRq9P-ck3gmuXRA=w480-h960-rw",
     "images": [
@@ -58,9 +77,9 @@
     "timer": 40
   },
   {
-    "id": 8,
+    "id": 5,
     "name": "Ethio Driving Exam",
-    "shortDescription": "Prepare for your driving test with our comprehensive app.",
+    "shortDescription": "የመንጃ ፈቃድ ፈተናን ለመዝጋት የተሟላ አፕ!",
     "description": "የመንጃ ፈቃድ ፈተናን ለመዝጋት የተሟላ አፕ!",
     "downloads": 150000,
     "icon": "https://play-lh.googleusercontent.com/katloAqQfRGdeANTab_koFMKm4KIcWvsXUnyEzOYIXWmhmP09dIpsgcBUv0RYrFscaGyp2ow-DgG7IGZVy01PA=w480-h960-rw",
@@ -77,10 +96,10 @@
     "timer": 1
   },
   {
-    "id": 3,
+    "id": 6,
     "name": "Image to pdf Converter",
-    "shortDescription": "Convert images to PDF format with ease.",
-    "description": "Image to pdf Converter is a simple and efficient tool that allows you to convert your images into PDF files. Whether you need to share documents or archive important images, this app makes the process quick and hassle-free.",
+    "shortDescription": "የምስልን ወደ PDF በቀላሉ የሚቀይር አፕ!",
+    "description": "የምስልን ወደ PDF በቀላሉ የሚቀይር አፕ!",
     "downloads": 1200000,
     "icon": "https://play-lh.googleusercontent.com/Qvz4WpzVCKdM9eW6doXntTeEOp6wJX7cLRO1p76kEb5z_0LuynrlTQ8U8dSKIMeCZ92ZoIYqIJcaEvKIF2R0=w480-h960-rw",
     "images": [
@@ -90,17 +109,17 @@
     ],
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ethioscanner.app",
     "category": "Tools",
-    "developer": "Image to pdf Converter Inc.",
+    "developer": "Tuaf Tech",
     "updatedAt": "2026-05-30",
     "rating": 4.7,
     "size": "21 MB",
     "timer": 40
   },
   {
-    "id": 4,
+    "id": 7,
     "name": "Ethio App Hub",
-    "shortDescription": "Welcome to Ethio App Hub – Your Ultimate Ethiopian App Store & Directory!",
-    "description": "Discover the best of Ethiopian mobile apps with Ethio App Hub, your one-stop destination for finding, downloading, and exploring a wide range of applications tailored for Ethiopian users. From finance and transportation to education and entertainment, Ethio App Hub offers a curated collection of apps that cater to the unique needs and interests of the Ethiopian community. Whether you're looking for the latest ride-hailing service, a secure mobile wallet, or an educational platform, Ethio App Hub has you covered with user-friendly navigation, detailed app descriptions, and direct links to download from the Google Play Store.",
+    "shortDescription": "ምርጥ የኢትዮጵያ መተግበሪያዎችን በአንድ ቦታ የሚያገኙበት አፕ!",
+    "description": "ምርጥ የኢትዮጵያ መተግበሪያዎችን በአንድ ቦታ የሚያገኙበት አፕ!",
     "downloads": 850000,
     "icon": "https://play-lh.googleusercontent.com/fk8Z2rmTTlHnsXAHVBVvw2dedGG6nhiAzMJjklAL-xREWX0Kg4cuXv81bsVbshx23P-6JEh78C5FwAYlnM9E=w480-h960-rw",
     "images": [
@@ -108,18 +127,18 @@
       "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=400&h=700&fit=crop"
     ],
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ethioapphub.app",
-    "category": "Transport",
-    "developer": "Ethio App Hub Inc.",
+    "category": "Utilities",
+    "developer": "Tuaf Tech",
     "updatedAt": "2026-06-10",
-    "rating": 4.4,
-    "size": "25 MB",
+    "rating": 4.6,
+    "size": "20 MB",
     "timer": 40
   },
   {
-    "id": 5,
+    "id": 8,
     "name": "Applock Pro",
-    "shortDescription": "Applock Pro is a powerful and user-friendly app that allows you to secure your applications with a password, pattern, or fingerprint lock. With Applock Pro, you can protect your privacy and keep your sensitive information safe from unauthorized access.",
-    "description": "Applock Pro is a powerful and user-friendly app that allows you to secure your applications with a password, pattern, or fingerprint lock. With Applock Pro, you can protect your privacy and keep your sensitive information safe from unauthorized access.",
+    "shortDescription": "መተግበሪያዎችን እና ግላዊ መረጃዎችን በምስጢር የሚቆልፍ አፕ!",
+    "description": "መተግበሪያዎችን እና ግላዊ መረጃዎችን በምስጢር የሚቆልፍ አፕ!",
     "downloads": 55000,
     "icon": "https://play-lh.googleusercontent.com/1wih_bvrPxMt-zcy9Ct15gBX6qg6qCsZunmLyxs-H-qHyoAtuxwJYDN5o-HkvmAq7ur-A_X0mAr9V90mKqesW5M=w480-h960-rw",
     "images": [
@@ -128,46 +147,27 @@
     ],
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.etapplocker.app",
     "category": "Security",
-    "developer": "Applock Pro Inc.",
+    "developer": "Tuaf Tech",
     "updatedAt": "2026-06-20",
     "rating": 4.8,
     "size": "15 MB",
     "timer": 40
   },
-  {
-    "id": 7,
-    "name": "Ethio Exchange Rates",
-    "shortDescription": "Your ultimate tool for real-time currency conversion and daily exchange rates",
-    "description": "Ethio Exchange Rates is the most reliable app for tracking real-time currency conversion and daily exchange rates in Ethiopia. Stay updated with the latest financial information and make informed decisions about your money.",
-    "downloads": 120000,
-    "icon": "https://play-lh.googleusercontent.com/UaEZF3wbGtsoaM9sN4Ii6F53RHb0kTOapOZFkeTnJw42BfmBpZT4m16cE1fodN3CIs-mBWVTxQZIHAzu3hXCS-c=w480-h960-rw",
-    "images": [
-      "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=400&h=700&fit=crop",
-      "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400&h=700&fit=crop"
-    ],
-    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ethiominzare.daily",
-    "category": "Finance",
-    "developer": "Ethio Exchange Rates Inc.",
-    "updatedAt": "2026-04-12",
-    "rating": 4.6,
-    "size": "42 MB",
-    "timer": 1
-  },
- 
+
   {
     "id": 9,
-    "name": "Medhanit Health",
-    "shortDescription": "Find open pharmacies, doctors, and medical supplies in real-time.",
-    "description": "Medhanit is a critical healthcare app that allows users to find nearby pharmacies with active stocks, search specialized medical doctors, find clinic schedules, and access verified pharmaceutical guides. It includes emergency contact links and on-duty pharmacy directories across Addis Ababa, Bahir Dar, Hawassa, and Adama.",
+    "name": "Ethio Tax Calculator",
+    "shortDescription": "ደሞዝ እና የንግድ ግብር ማስሊያ አፕ!",
+    "description": "ደሞዝ እና የንግድ ግብር ማስሊያ አፕ!",
     "downloads": 95000,
-    "icon": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=128&fit=crop&q=80",
+    "icon": "https://play-lh.googleusercontent.com/COfLcq_mjWeqRgq2xBSUh5xLicMn2JXW4vARcmPTnsUjrvnwsPSSvK1icKGKm3D3_1446ylSogjVKtjAsfTb=w480-h960-rw",
     "images": [
       "https://images.unsplash.com/photo-1530026405186-ed1ea0ac7a63?w=400&h=700&fit=crop",
       "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?w=400&h=700&fit=crop"
     ],
-    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.medhanit.healthcare",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ethiotaxcalculator.app",
     "category": "Utilities",
-    "developer": "Medhanit Health Solutions",
+    "developer": "Tuaf Tech",
     "updatedAt": "2026-05-18",
     "rating": 4.5,
     "size": "16 MB",
@@ -176,8 +176,8 @@
   {
     "id": 10,
     "name": "Kana Movies",
-    "shortDescription": "Kana Movies is your ultimate destination for streaming the latest Ethiopian movies and TV shows. Enjoy a wide selection of films, from classic favorites to new releases, all in one convenient app.",
-    "description": "Kana Movies is your ultimate destination for streaming the latest Ethiopian movies and TV shows. Enjoy a wide selection of films, from classic favorites to new releases, all in one convenient app.",
+    "shortDescription": "ሀገረኛ ፊልሞችን የሚያሳይ እና የሚያገኙበት አፕ!",
+    "description": "ሀገረኛ ፊልሞችን የሚያሳይ እና የሚያገኙበት አፕ!",
     "downloads": 200000,
     "icon": "https://play-lh.googleusercontent.com/D96518dbSxbRJeawqAmHXn05zfA2ILXhBzXYQCqOzNJv6MjEGYtOJPCYtld4EgEkxXTeGR36Zc0FwH3XWbxv0Q=w480-h960-rw",
     "images": [
@@ -188,8 +188,8 @@
     "category": "Entertainment",
     "developer": "Tuaf Tech",
     "updatedAt": "2026-06-01",
-    "rating": 4.7,
-    "size": "22 MB",
+    "rating": 4.6,
+    "size": "13 MB",
     "timer": 1
   }
 ]
