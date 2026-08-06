@@ -395,24 +395,6 @@
     "views": 983500,
     "featured": false,
     "top_event": false
-  },
-  {
-    "id": 23,
-    "title": "Sedo VS Jonny",
-    "amharic_title": "ሰዶ ከ ጆኒ",
-    "poster": "https://marziplus8-wq.github.io/Kana/photo/etfc.jpeg",
-    "banner": "https://marziplus8-wq.github.io/Kana/photo/etfc.jpeg",
-    "description": "Boxing Fight Live",
-    "genre": "Fighting",
-    "country": "Ethiopia",
-    "language": "Amharic",
-    "video_link": "https://img.refooty.com/m3u8/arsenal-vs-real-betis-2026-08-05_H44jw.m3u8",
-    "releaseYear": 2023,
-    "rating": 9.9,
-    "parts": 1,
-    "views": 983500,
-    "featured": false,
-    "top_event": true
   }
   
 ]
