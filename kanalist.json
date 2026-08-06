@@ -14,7 +14,8 @@
     "rating": 8.3,
     "parts": 99,
     "views": 432000,
-    "featured": false
+    "featured": false,
+    "top_event": false
   }
   ,
   {
@@ -32,7 +33,8 @@
     "rating": 9.9,
     "parts": 101,
     "views": 432000,
-    "featured": false
+    "featured": false,
+    "top_event": false    
   },
   {
     "id": 3,
@@ -49,7 +51,8 @@
     "rating": 9.6,
     "parts": 114,
     "views": 432000,
-    "featured": false
+    "featured": false,
+    "top_event": false
   },
   {
     "id": 4,
@@ -66,7 +69,8 @@
     "rating": 9.9,
     "parts": 31,
     "views": 983500,
-    "featured": false
+    "featured": false,
+    "top_event": false
   },
   {
     "id": 5,
@@ -83,7 +87,8 @@
     "rating": 9.7,
     "parts": 77,
     "views": 745200,
-    "featured": true
+    "featured": true,
+    "top_event": false
   },
   {
     "id": 6,
@@ -100,7 +105,8 @@
     "rating": 9.1,
     "parts": 187,
     "views": 2150000,
-    "featured": false
+    "featured": false,
+    "top_event": false
   },
   {
     "id": 7,
@@ -117,7 +123,8 @@
     "rating": 8.3,
     "parts": 225,
     "views": 432000,
-    "featured": false
+    "featured": false,
+    "top_event": false
   },
   {
     "id": 8,
@@ -134,7 +141,8 @@
     "rating": 9.0,
     "parts": 12,
     "views": 1876000,
-    "featured": true  
+    "featured": false,
+    "top_event": false 
   },
   {
     "id": 9,
@@ -151,7 +159,8 @@
     "rating": 9.5,
     "parts": 81,
     "views": 1254300,
-    "featured": true
+    "featured": false,
+    "top_event": false
   },
   {
     "id": 10,
@@ -168,7 +177,8 @@
     "rating": 9.9,
     "parts": 75,
     "views": 983500,
-    "featured": false
+    "featured": false,
+    "top_event": false
   },
   {
     "id": 11,
@@ -185,7 +195,8 @@
     "rating": 9.9,
     "parts": 16,
     "views": 983500,
-    "featured": false
+    "featured": false,
+    "top_event": false
   },
   {
     "id": 12,
@@ -202,7 +213,8 @@
     "rating": 9.9,
     "parts": 191,
     "views": 983500,
-    "featured": false
+    "featured": false,
+    "top_event": false
   },
   {
     "id": 13,
@@ -219,7 +231,8 @@
     "rating": 9.9,
     "parts": 126,
     "views": 983500,
-    "featured": false
+    "featured": false,
+    "top_event": false
   },
   {
     "id": 14,
@@ -236,7 +249,8 @@
     "rating": 9.8,
     "parts": 9,
     "views": 983500,
-    "featured": false
+    "featured": false,
+    "top_event": false
   },
   {
     "id": 15,
@@ -253,7 +267,8 @@
     "rating": 9.8,
     "parts": 52,
     "views": 983500,
-    "featured": false
+    "featured": false,
+    "top_event": false
   },
   {
     "id": 16,
@@ -270,7 +285,8 @@
     "rating": 9.8,
     "parts": 94,
     "views": 983500,
-    "featured": false
+    "featured": false,
+    "top_event": false
   },
   {
     "id": 17,
@@ -287,7 +303,8 @@
     "rating": 9.8,
     "parts": 94,
     "views": 983500,
-    "featured": false
+    "featured": false,
+    "top_event": false
   },
   {
     "id": 18,
@@ -304,7 +321,8 @@
     "rating": 9.9,
     "parts": 162,
     "views": 1254300,
-    "featured": true
+    "featured": true,
+    "top_event": false
   },
   {
     "id": 19,
@@ -321,7 +339,8 @@
     "rating": 9.9,
     "parts": 16,
     "views": 983500,
-    "featured": false
+    "featured": false,
+    "top_event": false
   },
   {
     "id": 20,
@@ -338,7 +357,8 @@
     "rating": 9.5,
     "parts": 44,
     "views": 983500,
-    "featured": false
+    "featured": false,
+    "top_event": false
   },
   {
     "id": 21,
@@ -355,7 +375,8 @@
     "rating": 9.8,
     "parts": 89,
     "views": 983500,
-    "featured": false
+    "featured": false,
+    "top_event": false
   },
   {
     "id": 22,
@@ -372,7 +393,26 @@
     "rating": 9.9,
     "parts": 37,
     "views": 983500,
-    "featured": false
+    "featured": false,
+    "top_event": false
+  },
+  {
+    "id": 23,
+    "title": "Sedo VS Jonny",
+    "amharic_title": "ሰዶ ከ ጆኒ",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/etfc.jpeg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/etfc.jpeg",
+    "description": "Boxing Fight Live",
+    "genre": "Fighting",
+    "country": "Ethiopia",
+    "language": "Amharic",
+    "video_link": "https://img.refooty.com/m3u8/arsenal-vs-real-betis-2026-08-05_H44jw.m3u8",
+    "releaseYear": 2023,
+    "rating": 9.9,
+    "parts": 1,
+    "views": 983500,
+    "featured": false,
+    "top_event": true
   }
   
 ]
