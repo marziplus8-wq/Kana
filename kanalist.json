@@ -413,6 +413,24 @@
     "views": 432000,
     "featured": false,
     "top_event": false
+  },
+  {
+    "id": 24,
+    "title": "Ende Enat",
+    "amharic_title": "እንደ እናት",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/endenat.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/endenat.jpg",
+    "description": "ቤተሰቡ ከባድ የድህነት ህይወት እና በአባታቸው ምክንያት የሚመጡ ችግሮችን በትግልና በአንድነት ይጋፈጣሉ።",
+    "genre": "Drama",
+    "country": "Turkey",
+    "language": "Turkish",
+    "video_link": "https://pub-6d94be894a8b4e14a6472bfe42a2257e.r2.dev/endenat",
+    "releaseYear": 2025,
+    "rating": 9.8,
+    "parts": 201,
+    "views": 432000,
+    "featured": false,
+    "top_event": false
   }
   
 ]
