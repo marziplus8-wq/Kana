@@ -395,6 +395,24 @@
     "views": 983500,
     "featured": false,
     "top_event": false
+  },
+  {
+    "id": 23,
+    "title": "Yewubet Esregnoch",
+    "amharic_title": "የውበት እስረኞች",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/yewbetesregonch.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/yewbetesregonch.jpg",
+    "description": "በሪዮ ዲ ጃኔሮ ድሃ መንደር የምትኖር ሞሬና የተባለች ወጣት እናት ላይ ነው።",
+    "genre": "Drama",
+    "country": "Brazil",
+    "language": "Portuguese",
+    "video_link": "https://pub-6d94be894a8b4e14a6472bfe42a2257e.r2.dev/yewbetesregonch",
+    "releaseYear": 2025,
+    "rating": 9.8,
+    "parts": 142,
+    "views": 432000,
+    "featured": false,
+    "top_event": false
   }
   
 ]
