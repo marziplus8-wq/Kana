@@ -431,6 +431,24 @@
     "views": 432000,
     "featured": false,
     "top_event": false
+  },
+  {
+     "id": 24,
+    "title": "Yeneser Ayn",
+    "amharic_title": "የንስር ዐይን",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/yeneserayn.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/yeneserayn.jpg",
+    "description": "በፓሌርሞ ከተማ ውስጥ በፖሊስ እና በማፊያ ቡድኖች መካከል የሚደረገውን የሞትና የሽረት ፍልሚያ የሚያሳይ የጣሊያን ተከታታይ ፊልም ነው።።",
+    "genre": "Drama",
+    "country": "Italy",
+    "language": "Italian",
+    "video_link": "https://pub-6d94be894a8b4e14a6472bfe42a2257e.r2.dev/yeneserayn",
+    "releaseYear": 2025,
+    "rating": 9.9,
+    "parts": 160,
+    "views": 532000,
+    "featured": false,
+    "top_event": false
   }
   
 ]
