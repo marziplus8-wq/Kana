@@ -448,5 +448,23 @@
     "views": 532000,
     "featured": false,
     "top_event": false
+  },
+  {
+    "id": 26,
+    "title": "Sedo VS Jonny",
+    "amharic_title": "Sedo VS Jonny",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/etfc.jpeg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/etfc.jpeg",
+    "description": "Boxing Fight Live",
+    "genre": "Fighting",
+    "country": "Ethiopia",
+    "language": "Amharic",
+    "video_link": "https://www.youtube.com/watch?v=u94p7Dx0FwA",
+    "releaseYear": 2023,
+    "rating": 9.9,
+    "parts": 1,
+    "views": 983500,
+    "featured": false,
+    "top_event": true
   }
 ]
