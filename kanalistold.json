@@ -449,6 +449,41 @@
     "views": 532000,
     "featured": false,
     "top_event": false
+  },
+   {
+    "id": 26,
+    "title": "Shemia",
+    "amharic_title": "ሽሚያ",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/shemia.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/shemia.jpg",
+    "description": "በሀብታሙ ካራቻይ እና በምስኪኑ የይልማዝ ቤተሰብ መካከል ያለውን የፍቅር፣ የበቀል እና የመደብ ትግል የሚያሳይ አሳቢ የቱርክ ድራማ ነው።",
+    "genre": "Drama",
+    "country": "Turkey",
+    "language": "Turkish",
+    "video_link": "https://pub-6d94be894a8b4e14a6472bfe42a2257e.r2.dev/shemia",
+    "releaseYear": 2025,
+    "rating": 9.9,
+    "parts": 134,
+    "views": 532000,
+    "featured": false,
+    "top_event": false
+  },
+  {
+    "id": 27,
+    "title": "Wotmed",
+    "amharic_title": "Wotmed",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/wetmed.jpeg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/wetmed.jpeg",
+    "description": "በፍቅር፣ በወንጀል እና በማምለጥ ታሪክ ዙሪያ የሚያመቻች አሳቢ የብራዚል ድራማ ነው።",
+    "genre": "Drama",
+    "country": "Brazil",
+    "language": "Portuguese",
+    "video_link": "https://pub-6d94be894a8b4e14a6472bfe42a2257e.r2.dev/wotmed",
+    "releaseYear": 2023,
+    "rating": 9.9,
+    "parts": 40,
+    "views": 983500,
+    "featured": false,
+    "top_event": false
   }
-  
 ]
