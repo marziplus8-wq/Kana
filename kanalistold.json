@@ -16,8 +16,7 @@
     "views": 432000,
     "featured": false,
     "top_event": false
-  }
-  ,
+  },
   {
     "id": 2,
     "title": "Fiker Ke Bekel",
@@ -34,7 +33,7 @@
     "parts": 101,
     "views": 432000,
     "featured": false,
-    "top_event": false    
+    "top_event": false
   },
   {
     "id": 3,
@@ -142,7 +141,7 @@
     "parts": 12,
     "views": 1876000,
     "featured": false,
-    "top_event": false 
+    "top_event": false
   },
   {
     "id": 9,
@@ -433,7 +432,7 @@
     "top_event": false
   },
   {
-     "id": 24,
+    "id": 24,
     "title": "Yeneser Ayn",
     "amharic_title": "የንስር ዐይን",
     "poster": "https://marziplus8-wq.github.io/Kana/photo/yeneserayn.jpg",
@@ -450,7 +449,7 @@
     "featured": false,
     "top_event": false
   },
-   {
+  {
     "id": 26,
     "title": "Shemia",
     "amharic_title": "ሽሚያ",
@@ -482,6 +481,24 @@
     "releaseYear": 2023,
     "rating": 9.9,
     "parts": 40,
+    "views": 983500,
+    "featured": false,
+    "top_event": false
+  },
+  {
+    "id": 28,
+    "title": "Yekosele Fiker",
+    "amharic_title": "የቆሰለ ፍቅር",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/yekoselefikr.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/yekoselefikr.jpg",
+    "description": "በኦቶማን ኢምፓየር ውደቀት ወቅት በሀገር ፍቅር፣ በቤተሰብ እና በፍቅር መካከል ያለውን መስዋዕትነት የሚያሳይ ድንቅ የታሪክ ድራማ ነው።",
+    "genre": "Drama",
+    "country": "Turkey",
+    "language": "Turkish",
+    "video_link": "https://pub-6d94be894a8b4e14a6472bfe42a2257e.r2.dev/yekoselefikr",
+    "releaseYear": 2023,
+    "rating": 9.9,
+    "parts": 168,
     "views": 983500,
     "featured": false,
     "top_event": false
