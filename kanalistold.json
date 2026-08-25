@@ -502,5 +502,23 @@
     "views": 983500,
     "featured": false,
     "top_event": false
+  },
+  {
+    "id": 29,
+    "title": "Firdegnochu",
+    "amharic_title": "ፍርደኞቹ",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/firdegochu.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/firdegochu.jpg",
+    "description": "በ1970ዎቹ ኢስታንቡል ውስጥ አንድ ወጣት አባቱን ከተሰነዘረበት የሃሰት ክስ ለማንጻት ሲል በሙስና እና በህግ ውጣ ውረድ ውስጥ ለማለፍ የሚታገልበት ታሪክ ነው።",
+    "genre": "Crime",
+    "country": "Turkey",
+    "language": "Turkish",
+    "video_link": "https://pub-6d94be894a8b4e14a6472bfe42a2257e.r2.dev/firdegochu",
+    "releaseYear": 2025,
+    "rating": 9.9,
+    "parts": 85,
+    "views": 432000,
+    "featured": false,
+    "top_event": false
   }
 ]
