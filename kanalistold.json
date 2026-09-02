@@ -520,5 +520,45 @@
     "views": 432000,
     "featured": false,
     "top_event": false
+  },
+
+  {
+    "id": 30,
+    "title": "Dir Ena Mag",
+    "amharic_title": "ድርና ማግ",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/direnamag.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/direnamag.jpg",
+    "description": "አንዲት ርህሩህ ሀኪም ህይወቷን ለማዳን ከአንድ ጨካኝ ገዳይ ጋር በግዳጅ ተጋብታ ወደ ያልተጠበቀ ፍቅር ውስጥ ትገባለች።",
+    "genre": "Drama",
+    "country": "Turkey",
+    "language": "Turkish",
+    "video_link": "https://pub-6d94be894a8b4e14a6472bfe42a2257e.r2.dev/direnamag",
+    "releaseYear": 2025,
+    "rating": 9.9,
+    "parts": 60,
+    "views": 432000,
+    "featured": false,
+    "top_event": false
+  },
+
+  {
+    "id": 31,
+    "title": "20 Dekika",
+    "amharic_title": "20 ደቂቃ",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/20dekika.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/20dekika.jpg",
+    "description": "አንድ የተረጋጋ የታሪክ መምህር በነፍስ ግድያ ወንጀል በበደል የተፈረደባትን ንጹህ ሚስቱን ከእስር ቤት ለማስመሰል 20 ደቂቃዎች ብቻ ይሰጡታል።",
+    "genre": "Drama",
+    "country": "Turkey",
+    "language": "Turkish",
+    "video_link": "https://pub-6d94be894a8b4e14a6472bfe42a2257e.r2.dev/20dekika",
+    "releaseYear": 2025,
+    "rating": 9.9,
+    "parts": 60,
+    "views": 432000,
+    "featured": false,
+    "top_event": false
   }
+
+
 ]
