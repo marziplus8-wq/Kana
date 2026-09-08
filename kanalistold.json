@@ -560,6 +560,25 @@
     "top_event": false
   },
   {
+    "id": 32,
+    "title": "Yalaleke Fiker",
+    "amharic_title": "ያላለቀ ፍቅር",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/yalalekefkr.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/yalalekefkr.jpg",
+    "description": "በፍቅር፣ በበቀል እና በቤተሰብ መሰናክሎች የተፈተነን የሁለት ወጣቶች አሳዛኝ እና ጥልቅ የፍቅር ጉዞ የሚያሳይ ታዋቂ የቱርክ ድራማ ነው።",
+    "genre": "Drama",
+    "country": "Turkey",
+    "language": "Turkish",
+    "video_link": "https://pub-6d94be894a8b4e14a6472bfe42a2257e.r2.dev/yalalekefkr",
+    "releaseYear": 2025,
+    "rating": 9.9,
+    "parts": 243,
+    "views": 432000,
+    "featured": false,
+    "top_event": false
+  },
+
+  {
     "id": 100,
     "title": "Ehel Wuha 54",
     "amharic_title": "እህል ውሃ 54",
