@@ -577,6 +577,24 @@
     "featured": false,
     "top_event": false
   },
+   {
+    "id": 33,
+    "title": "Gra Kegn",
+    "amharic_title": "ግራ ቀኝ",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo//giraenakegn.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo//giraenakegn.jpg",
+    "description": "በፍቅር፣ በግዴታ እና በአስደናቂ ፈተናዎች መካከል የሚጓዙ ሁለት ልቦችን የሚያሳይ ልብ አንጠልጣይ የፍቅር ድራማ።",
+    "genre": "Drama",
+    "country": "South Korea",
+    "language": "Korean",
+    "video_link": "https://pub-6d94be894a8b4e14a6472bfe42a2257e.r2.dev//giraenakegn",
+    "releaseYear": 2025,
+    "rating": 9.9,
+    "parts": 22,
+    "views": 432000,
+    "featured": false,
+    "top_event": false
+  },
 
   {
     "id": 100,
