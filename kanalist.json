@@ -577,12 +577,12 @@
     "featured": false,
     "top_event": false
   },
-   {
+  {
     "id": 33,
     "title": "Gra Kegn",
     "amharic_title": "ግራ ቀኝ",
-    "poster": "https://marziplus8-wq.github.io/Kana/photo//giraenakegn.jpg",
-    "banner": "https://marziplus8-wq.github.io/Kana/photo//giraenakegn.jpg",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/giraenakegn.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/giraenakegn.jpg",
     "description": "በፍቅር፣ በግዴታ እና በአስደናቂ ፈተናዎች መካከል የሚጓዙ ሁለት ልቦችን የሚያሳይ ልብ አንጠልጣይ የፍቅር ድራማ።",
     "genre": "Drama",
     "country": "South Korea",
@@ -595,12 +595,12 @@
     "featured": false,
     "top_event": false
   },
-   {
+  {
     "id": 34,
     "title": "Yetekema Hiwot",
     "amharic_title": "የተቀማ ሕይወት",
-    "poster": "https://marziplus8-wq.github.io/Kana/photo//yetekemahiwot.jpg",
-    "banner": "https://marziplus8-wq.github.io/Kana/photo//yetekemahiwot.jpg",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/yetekemahiwot.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/yetekemahiwot.jpg",
     "description": "እውነትና ውሸት፣ ፍቅርና ምስጢር በተወሳሰቡበት የተሰረቀ ሕይወትን እውነተኛ ማንነት ለማወቅ የሚደረግ አስደናቂ ትግል።",
     "genre": "Drama",
     "country": "Turkey",
@@ -613,12 +613,12 @@
     "featured": false,
     "top_event": false
   },
-   {
+  {
     "id": 35,
     "title": "Yeras Mirkogna",
     "amharic_title": "የራስ ምርኮኛ",
-    "poster": "https://marziplus8-wq.github.io/Kana/photo//yerasmirkogna.jpg",
-    "banner": "https://marziplus8-wq.github.io/Kana/photo//yerasmirkogna.jpg",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/yerasmirkogna.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/yerasmirkogna.jpg",
     "description": "ታሪኩ በሁለት ተቀናቃኝ ቤተሰቦች ዙሪያ የሚካሄዱ የቤተሰብ ድራማዎችን፣ የንግድ ፉክክሮችን እና የተደበቁ ምስጢሮችን ያሳያል።",
     "genre": "Drama",
     "country": "Mexican",
