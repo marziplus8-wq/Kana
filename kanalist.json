@@ -613,6 +613,24 @@
     "featured": false,
     "top_event": false
   },
+   {
+    "id": 35,
+    "title": "Yeras Mirkogna",
+    "amharic_title": "የራስ ምርኮኛ",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo//yerasmirkogna.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo//yerasmirkogna.jpg",
+    "description": "ታሪኩ በሁለት ተቀናቃኝ ቤተሰቦች ዙሪያ የሚካሄዱ የቤተሰብ ድራማዎችን፣ የንግድ ፉክክሮችን እና የተደበቁ ምስጢሮችን ያሳያል።",
+    "genre": "Drama",
+    "country": "Mexican",
+    "language": "Spanish",
+    "video_link": "https://pub-6d94be894a8b4e14a6472bfe42a2257e.r2.dev/yerasmirkogna",
+    "releaseYear": 2025,
+    "rating": 9.8,
+    "parts": 138,
+    "views": 432000,
+    "featured": false,
+    "top_event": false
+  },
   {
     "id": 100,
     "title": "Ehel Wuha 59",
