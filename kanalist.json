@@ -686,6 +686,24 @@
     "top_event": false
   },
   {
+    "id": 39,
+    "title": "Yebekel Menged",
+    "amharic_title": "የበቀል መንገድ",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/yebekelmenged.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/yebekelmenged.jpg",
+    "description": "በቆሻሻ መጣያ ቦታ ላይ የተጣለች ልጅ በቀልን ፍለጋ የምታደርገውን የህይወት ጉዞ የሚያሳይ ተከታታይ የብራዚል ድራማ።",
+    "genre": "Drama",
+    "country": "Brazil",
+    "language": "Portuguese",
+    "video_link": "https://pub-6d94be894a8b4e14a6472bfe42a2257e.r2.dev/yebekelmenged",
+    "releaseYear": 2025,
+    "rating": 9.9,
+    "parts": 156,
+    "views": 1932000,
+    "featured": false,
+    "top_event": false
+  },
+  {
     "id": 100,
     "title": "Ehel Wuha 74",
     "amharic_title": "እህል ውሃ 74",
