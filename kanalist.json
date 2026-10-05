@@ -631,7 +631,7 @@
     "featured": false,
     "top_event": false
   },
-   {
+  {
     "id": 36,
     "title": "Ye Fazilet Lijoich",
     "amharic_title": "የፋዚሌት ልጆች",
@@ -721,7 +721,4 @@
     "featured": false,
     "top_event": true
   }
-  
-
-
 ]
