@@ -740,6 +740,24 @@
     "top_event": false
   },
   {
+    "id": 42,
+    "title": "Eta Fenta",
+    "amharic_title": "እጣ ፈንታ",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/etafenta.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/etafenta.jpg",
+    "description": "የመጀመሪያ ፍቅሯን ለማስመለስ ስትታገል በፍቅር ከማያምነው አሰሪዋ ጋር የምትዋደደውን የአዳን አዝናኝ ታሪክ የሚያሳይ ተከታታይ ፊልም ነው::",
+    "genre": "Drama",
+    "country": "Turkey",
+    "language": "Turkish",
+    "video_link": "https://pub-6d94be894a8b4e14a6472bfe42a2257e.r2.dev/etafenta",
+    "releaseYear": 2025,
+    "rating": 9.6,
+    "parts": 57,
+    "views": 1032000,
+    "featured": false,
+    "top_event": false
+  },
+  {
     "id": 100,
     "title": "Ehel Wuha 76",
     "amharic_title": "እህል ውሃ 76",
