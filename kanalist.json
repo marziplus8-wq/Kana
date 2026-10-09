@@ -721,7 +721,7 @@
     "featured": false,
     "top_event": false
   },
-   {
+  {
     "id": 41,
     "title": "Flega",
     "amharic_title": "ፍለጋ",
@@ -753,6 +753,24 @@
     "releaseYear": 2025,
     "rating": 9.6,
     "parts": 57,
+    "views": 1032000,
+    "featured": false,
+    "top_event": false
+  },
+  {
+    "id": 43,
+    "title": "Mehala",
+    "amharic_title": "መሃላ",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/mehalla.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/mehalla.jpg",
+    "description": "በፍቅር፣ በቅናትና በተደበቁ ምስጢሮች የተሞላው የሁለት ቤተሰቦች ዕጣ ፈንታ በአስደማሚ ሁኔታ የሚገናኝበት የቱርክ ድራማ።",
+    "genre": "Drama",
+    "country": "Turkey",
+    "language": "Turkish",
+    "video_link": "https://pub-6d94be894a8b4e14a6472bfe42a2257e.r2.dev/mehalla",
+    "releaseYear": 2025,
+    "rating": 9.6,
+    "parts": 78,
     "views": 1032000,
     "featured": false,
     "top_event": false
