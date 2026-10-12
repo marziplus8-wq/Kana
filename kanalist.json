@@ -776,6 +776,24 @@
     "top_event": false
   },
   {
+    "id": 44,
+    "title": "Yemegnot Tila",
+    "amharic_title": "የምኞት ጥላ",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/yemignottila.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/yemignottila.jpg",
+    "description": "ቤተሰቦችን ሕይወት፣ የፍቅር ግንኙነት፣ የበቀል ሴራና የቤተሰብ ግጭቶችን የሚያሳይ አስደናቂ የድራማ ተከታታይ ፊልም ነው።",
+    "genre": "Drama",
+    "country": "Colombia",
+    "language": "Spanish",
+    "video_link": "https://pub-6d94be894a8b4e14a6472bfe42a2257e.r2.dev/yemignottila",
+    "releaseYear": 2025,
+    "rating": 9.6,
+    "parts": 61,
+    "views": 1032000,
+    "featured": false,
+    "top_event": false
+  },
+  {
     "id": 100,
     "title": "Ehel Wuha 79",
     "amharic_title": "እህል ውሃ 79",
