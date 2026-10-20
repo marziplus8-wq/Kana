@@ -810,6 +810,24 @@
     "views": 1082000,
     "featured": false,
     "top_event": false
+  }, 
+  {
+    "id": 46,
+    "title": "Yetsehay Lijoch",
+    "amharic_title": "የፀሐይ ልጆች",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/yetshehaylijoch.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/yetshehaylijoch.jpg",
+    "description": "ጉነሽ ከሶስት ልጆቿ ጋር አዲስ ህይወት ለመጀመር ወደ ኢስታንቡል ብትዛወርም፣ በቤተሰቡ ድብቅ ምስጢሮች ምክንያት ህይወታቸው የሚያወዛግብበት አስደናቂ ድራማ ነው።",
+    "genre": "Drama",
+    "country": "Turkey",
+    "language": "Turkish",
+    "video_link": "https://pub-6d94be894a8b4e14a6472bfe42a2257e.r2.dev/yetshehaylijoch",
+    "releaseYear": 2025,
+    "rating": 9.6,
+    "parts": 113,
+    "views": 1082000,
+    "featured": false,
+    "top_event": false
   },
   {
     "id": 100,
