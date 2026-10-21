@@ -810,7 +810,7 @@
     "views": 1082000,
     "featured": false,
     "top_event": false
-  }, 
+  },
   {
     "id": 46,
     "title": "Yetsehay Lijoch",
@@ -826,6 +826,24 @@
     "rating": 9.6,
     "parts": 113,
     "views": 1082000,
+    "featured": false,
+    "top_event": false
+  },
+  {
+    "id": 47,
+    "title": "Mebrek",
+    "amharic_title": "መብረቅ",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/mebrek.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/mebrek.jpg",
+    "description": "አንድ ሀብታም ቤተሰብ በከሰረ በኋላ ወደ ቦድሩም ተመልሶ ህይወቱን ከዜሮ ለመጀመር የሚያደርገውን ትግል የሚያሳይ ድራማ ነው።",
+    "genre": "Drama",
+    "country": "Turkey",
+    "language": "Turkish",
+    "video_link": "https://pub-6d94be894a8b4e14a6472bfe42a2257e.r2.dev/mebrek",
+    "releaseYear": 2025,
+    "rating": 9.5,
+    "parts": 112,
+    "views": 102000,
     "featured": false,
     "top_event": false
   },
