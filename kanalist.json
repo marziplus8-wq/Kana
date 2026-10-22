@@ -847,6 +847,24 @@
     "featured": false,
     "top_event": false
   },
+   {
+    "id": 48,
+    "title": "Aziz",
+    "amharic_title": "አዚዝ",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/aziz.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/aziz.jpg",
+    "description": "አዚዝ በፍቅር፣ በቤተሰብ ግጭትና በበቀል መካከል ሆኖ ለፍቅሩና ለፍትህ የሚታገልበት አስደናቂ የቱርክ ድራማ ነው።",
+    "genre": "Drama",
+    "country": "Turkey",
+    "language": "Turkish",
+    "video_link": "https://pub-6d94be894a8b4e14a6472bfe42a2257e.r2.dev/aziz",
+    "releaseYear": 2025,
+    "rating": 9.5,
+    "parts": 90,
+    "views": 102000,
+    "featured": false,
+    "top_event": false
+  },
   {
     "id": 100,
     "title": "Ehel Wuha 86",
