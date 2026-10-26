@@ -847,7 +847,7 @@
     "featured": false,
     "top_event": false
   },
-   {
+  {
     "id": 48,
     "title": "Aziz",
     "amharic_title": "አዚዝ",
@@ -862,6 +862,24 @@
     "rating": 9.5,
     "parts": 90,
     "views": 102000,
+    "featured": false,
+    "top_event": false
+  },
+  {
+    "id": 49,
+    "title": "Yigbagn",
+    "amharic_title": "ይግባኝ",
+    "poster": "https://marziplus8-wq.github.io/Kana/photo/yigbagn.jpg",
+    "banner": "https://marziplus8-wq.github.io/Kana/photo/yigbagn.jpg",
+    "description": "ፍትህን ለማስከበር ከአደገኛ ወንጀለኞችና ከሙስና ጋር የምትፋለም ጠንካራ ዐቃቤ ሕግ የምታደርገውን አስደናቂ ትግል የሚያሳይ ድራማ ነው።",
+    "genre": "Drama",
+    "country": "Mexico",
+    "language": "Spanish",
+    "video_link": "https://pub-6d94be894a8b4e14a6472bfe42a2257e.r2.dev/yigbagn",
+    "releaseYear": 2025,
+    "rating": 9.5,
+    "parts": 81,
+    "views": 104000,
     "featured": false,
     "top_event": false
   },
